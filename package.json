@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/yirano/node-api1-guided#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
